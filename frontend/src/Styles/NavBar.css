@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+.nar-right {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+}
+.nar-right > p {
+  /* display: flex; */
+  margin: 0px 5px;
+}
